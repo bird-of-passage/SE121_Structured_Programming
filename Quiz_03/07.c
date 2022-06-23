@@ -1,4 +1,6 @@
 // Write a C program to enter a number and print its reverse.
+// Solved by Md. Mahfuzur Rahman Shanto
+
 #include <stdio.h>
 
 int main()

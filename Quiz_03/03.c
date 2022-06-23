@@ -4,6 +4,8 @@
 // 12
 // 123
 // 1234
+// Solved by Md. Mahfuzur Rahman Shanto
+
 #include <stdio.h>
 
 int main()

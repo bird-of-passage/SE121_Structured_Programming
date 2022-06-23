@@ -1,4 +1,6 @@
 // Write a C program to find all factors of a number
+// Solved by Md. Mahfuzur Rahman Shanto
+
 #include <stdio.h>
 
 int main()

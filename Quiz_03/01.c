@@ -1,4 +1,6 @@
+// Problem no. 01:
 // Write a program in C to read 10 numbers from keyboard and find their sum and average.
+// Solved by Md. Mahfuzur Rahman Shanto
 
 #include <stdio.h>
 

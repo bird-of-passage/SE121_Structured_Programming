@@ -1,4 +1,6 @@
 // Write a C program to check whether a given number is an armstrong number or not
+// Solved by Md. Mahfuzur Rahman Shanto
+
 #include <stdio.h>
 
 int main()

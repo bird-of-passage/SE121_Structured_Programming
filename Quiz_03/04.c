@@ -1,4 +1,6 @@
 // Write a C program to calculate the factorial of a given number
+// Solved by Md. Mahfuzur Rahman Shanto
+
 #include <stdio.h>
 int main()
 {
